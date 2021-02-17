@@ -1,2 +1,2 @@
-# studyCSS
+# StudyCSS
 studyCSS-Links
